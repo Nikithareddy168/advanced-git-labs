@@ -6,6 +6,7 @@ public class Helloworld {
        // System.out.println("Hello conflicts from sandbox !!");
         System.out.println("My favourite band is One direction");
         System.out.println("My favourites album is Madonna celebration");
+        System.out.println("My favourites genre is Jazz");
         
     }
 
